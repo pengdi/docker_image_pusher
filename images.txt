@@ -1,4 +1,6 @@
 tooandy/navidrome
--platform=linux/arm64 tooandy/navidrome:develop
+-platform=linux/amd64 tooandy/navidrome:develop
 tooandy/navichina
--platform=linux/arm64 tooandy/navichina:latest
+-platform=linux/amd64 tooandy/navichina:latest
+ailg/g-box
+-platform=linux/amd64 ailg/g-box:hostmode
