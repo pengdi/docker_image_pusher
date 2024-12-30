@@ -1,1 +1,4 @@
+tooandy/navidrome
 -platform=linux/arm64 tooandy/navidrome:develop
+tooandy/navichina
+-platform=linux/arm64 tooandy/navichina:latest
